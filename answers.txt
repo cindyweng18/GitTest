@@ -1,0 +1,27 @@
+1. Sublime lets you choose a variety of programming languages to code with. With that, it is flexible since a computer scientist should not know only one language but probably more than that.
+
+Sublime also does not fill in as most editors do with coding. It can be inefficient and time-consuming but I believe that it makes me learn the code better than other text editors that automatically fill in statements and functions.
+
+Last but not least, Sublime allows you to easily jump to any functions you have written. Programming languages such as Python where for a beginner, the file can be up to 600 lines for a project, it can get tiresome to scroll up and down and carefully look for your function and see what it does. 
+2. touch a.txt
+
+touch b.bak
+
+touch c.py
+
+﻿find . \( -name "*.txt"\) -exec mv new_a.txt {} \;
+
+find. \(-name "*.bak"\) -exec rm {} \;
+
+if [ cat c.py | wc -l -ge 10 ] 
+
+then
+
+    mv c.py long_c.py
+
+else
+
+    mv c.py short_c.py
+
+fi
+
